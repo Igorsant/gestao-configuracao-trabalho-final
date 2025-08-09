@@ -9,3 +9,9 @@ DEBUG=
 USER=
 TOKEN=
 ```
+
+## Last modified
+
+```bash
+231622e (HEAD -> dev) save instructions for .env file
+```
